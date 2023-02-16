@@ -9,6 +9,15 @@
     "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
   },
   {
+    "type": "file",
+    "id": "tsdoc-block",
+    "title": "TSDoc Block",
+    "description": "A block that renders TSDoc comments",
+    "entry": "blocks/tsdoc.tsx",
+    "matches": ["*.ts", "*.tsx"],
+    "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
+  },
+  {
     "type": "folder",
     "id": "folder-block",
     "title": "Example Folder Block",
